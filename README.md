@@ -9,5 +9,8 @@ POS baik dijalankan pada web server Apache 2.4.x PHP 7.3.x dan PHP 5.6.x (PHP 5.
 POS ini di kembangakan oleh PT Lingga Buana Teknologi, untuk penggunaan source code harap izin terlebih dahulu dan dilarang menjual kembali source code nya tanpa seizin
 
 
+####
+www.linggabuana.co.id
+
 
 
