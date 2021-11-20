@@ -10,7 +10,8 @@ POS ini di kembangakan oleh PT Lingga Buana Teknologi, untuk penggunaan source c
 
 
 ####
-www.linggabuana.co.id
+www.linggabuana.co.id 
+Demo Aplikasi www.linggabuana.com/pos
 
 
 
